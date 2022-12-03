@@ -5,6 +5,7 @@ We are planning to implement this code in our code: https://github.com/aStieber/
 
 For monte carlo implementation, we took help from https://www.geeksforgeeks.org/ml-monte-carlo-tree-search-mcts/
 
+To use the pychess library : https://python-chess.readthedocs.io/en/latest/
 
 Installation :
 We used python code. To run the code we need to install the dependencies: 
