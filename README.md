@@ -1,5 +1,8 @@
 # chess
 
+Chess part 2 is human and AI based game.
+Chess with monte carlo search is completely AI based. both of the players are AI there.
+
 Proper attribution and link to any existing code used in project:
 
 We are planning to implement this chess960 version in our code: https://github.com/aStieber/Chess960/blob/master/README.md instead of using the library
