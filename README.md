@@ -35,4 +35,4 @@ human needs to give two input each time. First one is where they want their piec
 If you choose invalid move, game will be over that time.
 You will get the row and colum idea from the following image:
 
-![alt text]([https://github.com/mhatresahil/chess/blob/45c28b5a1222ea45713b43a812814619f12fb4a9/Screenshot%202022-12-02%20at%207.23.30%20PM.png?raw=true])
+https://github.com/mhatresahil/chess/blob/45c28b5a1222ea45713b43a812814619f12fb4a9/Screenshot%202022-12-02%20at%207.23.30%20PM.png
