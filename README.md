@@ -1,7 +1,8 @@
 # chess
 
-Chess part 2 is human and AI based game.
-Chess with monte carlo search is completely AI based. both of the players are AI there.
+ChessPart2.ipynb is human and AI based game.
+
+chess_game_with_Monte_Carlo.ipynb is completely AI based. both of the players are AI there.
 
 Proper attribution and link to any existing code used in project:
 
