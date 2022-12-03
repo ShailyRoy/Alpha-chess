@@ -17,3 +17,7 @@ Explanation to run interactive domain program:
 
 
 Explanation of how to run the computer experiments:
+The board is randomized , it can also be customized based on the programmer's choice using the command:
+chess.Board("all the positions that you want")
+
+The game is Ai and human based. 
