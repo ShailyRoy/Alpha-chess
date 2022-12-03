@@ -1,7 +1,8 @@
 # chess
 
 Proper attribution and link to any existing code used in project:
-We are planning to implement this code in our code: https://github.com/aStieber/Chess960/blob/master/README.md
+
+We are planning to implement this chess960 version in our code: https://github.com/aStieber/Chess960/blob/master/README.md instead of using the library
 
 For monte carlo implementation, we took help from https://www.geeksforgeeks.org/ml-monte-carlo-tree-search-mcts/
 
