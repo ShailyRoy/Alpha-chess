@@ -33,3 +33,6 @@ The game is Ai and human based. You will be asked with options what you want.
 If you choose AI vs human, After you run the code, AI will give the first move and you will be the second player. 
 human needs to give two input each time. First one is where they want their piece to go and second one is the row and colum of which piece they want to move. here row is from a to h and colum is from 1 to 8.
 If you choose invalid move, game will be over that time.
+You will get the row and colum idea from the following image:
+
+![alt text]([https://drive.google.com/file/d/1jM6ZIC1tuAveIEJDaP7h70b9pRs0YfN2/view?usp=sharing])
